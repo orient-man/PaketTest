@@ -3,4 +3,7 @@ NUGET
   specs:
     Autofac (3.5.2) - framework: >= net45
     FluentAssertions (4.1.1) - framework: >= net45
+  remote: c:/projekty/mBank/PaketFeed
+  specs:
+    Moq (4.2.1510.2205) - framework: >= net45
     NUnit (2.6.3) - framework: >= net45
